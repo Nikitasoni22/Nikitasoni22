@@ -65,11 +65,11 @@ Grinding DSA + Building Projects + Exploring AI/ML
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE
+# 🐍 CONTRIBUTION 
 
 <div align="center">
 
-![snake gif](https://github.com/Nikitasoni22/Nikitasoni22/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/Nikitasoni22/Nikitasoni22/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
 </div>
 
