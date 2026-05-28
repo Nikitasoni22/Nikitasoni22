@@ -81,15 +81,6 @@ Grinding DSA + Building Projects + Exploring AI/ML
 
 ---
 
-# 🎵 NOW PLAYING
-
-<div align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31w4x3nqz5l6q7m2zj6z5u6f6mta&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=7f77dd&bar_color_cover=false" />
-
-</div>
-
----
 
 # 🏆 ACHIEVEMENTS UNLOCKED
 
