@@ -81,17 +81,6 @@ Grinding DSA + Building Projects + Exploring AI/ML
 
 ---
 
-
-# 🏆 ACHIEVEMENTS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Nikitasoni22&show_icons=true&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 # 🌌 QUEST MAP (PROJECTS)
 
 ## 🎵 Spotify Clone
