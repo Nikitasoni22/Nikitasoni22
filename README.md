@@ -82,11 +82,13 @@ Grinding DSA + Building Projects + Exploring AI/ML
 ---
 
 
-# 🏆 ACHIEVEMENTS UNLOCKED
+# 🏆 ACHIEVEMENTS
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nikitasoni22&theme=tokyonight&no-frame=true&margin-w=15&row=1" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Nikitasoni22&show_icons=true&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
