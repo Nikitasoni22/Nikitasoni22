@@ -75,7 +75,7 @@ Grinding DSA + Building Projects + Exploring AI/ML
 
 ---
 
-# 📈 REAL CONTRIBUTION GRAPH
+# 📈 CONTRIBUTION GRAPH
 
 [![Nikita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nikitasoni22\&theme=tokyo-night\&hide_border=true\&bg_color=0D1117)](https://github.com/Nikitasoni22)
 
