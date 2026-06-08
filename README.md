@@ -8,8 +8,15 @@
 
 # Nikita Soni
 
-<img width="1472" height="764" alt="image" src="https://github.com/user-attachments/assets/4c9f9d42-c956-415b-bd1a-adb638cb11c5" />
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Data+Science+Enthusiast;Python+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnBvcnI3bWJlY2JqZmY4NnA5cWxvN3N2eXJjcG9zZ3J3dXltaWZ0ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="300">
+</p>
 
 </div>
 
