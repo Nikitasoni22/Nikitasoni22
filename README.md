@@ -8,7 +8,8 @@
 
 # Nikita Soni
 
-<img width="1472" height="760" alt="image" src="https://github.com/user-attachments/assets/0c418f55-674c-41f2-8d76-aa56e4a7cf27" />
+<img width="1472" height="764" alt="image" src="https://github.com/user-attachments/assets/4c9f9d42-c956-415b-bd1a-adb638cb11c5" />
+
 
 </div>
 
