@@ -41,18 +41,6 @@ Grinding DSA + Building Projects + Exploring AI/ML
 
 ---
 
-# ⚔️ ACTIVE QUESTS
-
-| Quest                        | Status         |
-| ---------------------------- | -------------- |
-| 🌐 Full Stack Development    | 🟨 In Progress |
-| 🤖 AI/ML Journey             | 🟨 In Progress |
-| 🧠 DSA Grinding              | 🟨 In Progress |
-| 🚀 Open Source Contributions | ✅ Active       |
-| 🎵 Spotify Clone             | ✅ Completed    |
-
----
-
 # 📊 PLAYER STATS
 
 <div align="center">
@@ -79,23 +67,6 @@ Grinding DSA + Building Projects + Exploring AI/ML
 
 [![Nikita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nikitasoni22\&theme=tokyo-night\&hide_border=true\&bg_color=0D1117)](https://github.com/Nikitasoni22)
 
----
-
-# 🌌 QUEST MAP (PROJECTS)
-
-## 🎵 Spotify Clone
-
-Frontend Spotify-inspired UI built using HTML & CSS.
-
-## 🌐 Region Bridge Portal
-
-Full Stack TypeScript project focused on regional data systems.
-
-## 🤖 ML From Scratch
-
-Implementing ML algorithms manually without frameworks.
-
----
 
 # 🌐 CONNECT WITH ME
 
