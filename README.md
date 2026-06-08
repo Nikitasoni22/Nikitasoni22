@@ -9,7 +9,7 @@
 # Nikita Soni
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnBvcnI3bWJlY2JqZmY4NnA5cWxvN3N2eXJjcG9zZ3J3dXltaWZ0ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="300">
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="700">
 </p>
 
 </div>
