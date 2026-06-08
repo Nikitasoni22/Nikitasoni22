@@ -6,9 +6,9 @@
 
 <div align="center">
 
-# 👾 PLAYER PROFILE
+# Nikita Soni
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3A4NWQ2ZWQ3cTBqNjA1MXJ6Y3duNnF4cHFvNWVwN3djbTV3MWN0NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="250"/>
+<img width="1472" height="760" alt="image" src="https://github.com/user-attachments/assets/0c418f55-674c-41f2-8d76-aa56e4a7cf27" />
 
 </div>
 
