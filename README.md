@@ -31,15 +31,6 @@ Grinding DSA + Building Projects + Exploring AI/ML
 ⚔️ Open Source PRs Merged
 ````
 
----
-
-# 🎒 INVENTORY
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,java,python,mysql,git,github,vscode" />
-</p>
-
----
 
 # 📊 PLAYER STATS
 
@@ -62,10 +53,6 @@ Grinding DSA + Building Projects + Exploring AI/ML
 </div>
 
 ---
-
-# 📈 CONTRIBUTION GRAPH
-
-[![Nikita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nikitasoni22\&theme=tokyo-night\&hide_border=true\&bg_color=0D1117)](https://github.com/Nikitasoni22)
 
 
 # 🌐 CONNECT WITH ME
